@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/launch"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/launch"/>
+    <item
+        android:id="@+id/uninstall"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/uninstall"/>
+    <item
+        android:id="@+id/details"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/details"/>
+</menu>
